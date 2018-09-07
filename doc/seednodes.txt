@@ -1,3 +1,4 @@
 peer.america.vit.tube:2001          # ViceToken
 peer.asia.vit.tube:2001             # ViceToken
 peer.europe.vit.tube:2001           # ViceToken
+seed.vit.kennybll.com:2002          # Vit-Fans
